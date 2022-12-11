@@ -16,3 +16,6 @@ I am responsible and punctual.
 
 ## English
 B1 
+
+## Education
+University: P.G. Demidov Yaroslavl State University, specialty "Sociology"
