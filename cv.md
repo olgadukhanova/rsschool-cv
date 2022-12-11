@@ -18,4 +18,7 @@ I am responsible and punctual.
 B1 
 
 ## Education
-University: P.G. Demidov Yaroslavl State University, specialty "Sociology"
+- University: P.G. Demidov Yaroslavl State University, specialty "Sociology"
+- Courses:
+  - [Netology](https://netology.ru)
+  - [Stepik](https://stepik.org/)
