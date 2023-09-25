@@ -19,11 +19,14 @@ Testing сourses, SQL trainer:
   - [Netology](https://netology.ru);
   - [GeekBrains](https://gb.ru/);
   - [Stepik](https://stepik.org/).
+    
 Literature: 
   - Software testing. Basic course / S.S. Kulikov;
   - The Modern JavaScript Tutorial.
 
 ## Experience
 Participant (Trainee Tester) of a project called "Hamsters" for beginning testers.
+
 Program 'Women in Tech Russia' participant.
+
 Junior Manual Tester: 3 April 2023 - Until now.
