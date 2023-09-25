@@ -2,7 +2,9 @@
 
 ## Contacts
 Location: Yaroslavl, Russia
+
 Email: olga.gorlach@gmail.com
+
 GitHub: [olgadukhanova](https://github.com/olgadukhanova)
 
 ## Skills
