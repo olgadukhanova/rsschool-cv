@@ -15,6 +15,7 @@ B1
 
 ## Education
 University: P.G. Demidov Yaroslavl State University, specialty "Sociology".
+
 Testing сourses, SQL trainer:
   - [Netology](https://netology.ru);
   - [GeekBrains](https://gb.ru/);
